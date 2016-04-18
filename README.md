@@ -30,9 +30,7 @@ information, and the LCD to display real-time information as per above spec.
 
 [SatGen NMEA][sg-nmea] allows pre-made GPS datasets to be streamed via Serial Port, this will be used to stream mock data to the AppBoard.
 
-[sg-nmea]: http://www.labsat.co.uk/index.php/en/free-gps-nmea-simulator-software
-
-# LICENSE
+## LICENSE
 
 The MIT License (MIT)
 
@@ -55,3 +53,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
+[sg-nmea]: http://www.labsat.co.uk/index.php/en/free-gps-nmea-simulator-software
